@@ -7,4 +7,4 @@ P.s они умные
 #Как сделать exe  файл
 
 1. `pip installer pyinstaller`
-2. `pyinstaller --onefile shooter_game.py`
+2. `pyinstaller --onefile notes_txt.py`
