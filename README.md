@@ -1,2 +1,10 @@
 # Smart_notes
-smart notes
+ Это умные заметки
+ 
+ 
+P.s они умные
+
+#Как сделать exe  файл
+
+1. `pip installer pyinstaller`
+2. `pyinstaller --onefile shooter_game.py`
